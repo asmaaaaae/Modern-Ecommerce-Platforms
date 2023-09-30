@@ -81,7 +81,7 @@ This BPMN diagram illustrates the processes of my E-Commerce Website, highlighti
 -Deliver company
 
 
-**Customer pool**
+&nbsp;&nbsp;&nbsp;**Customer pool**
 
 
 Depicts the community of users engaging with the platform.
@@ -134,12 +134,14 @@ Depicts the community of users engaging with the platform.
 **End Event:** Red Circle
 
 
-**System pool**
+&nbsp;&nbsp;&nbsp;**System pool**
 
 
 
 Order management system
-
+<p float="left">
+  <img src="image/system pool.png" alt="image" width="50%"/>
+ </p> 
 
 
 **deliver successful** deliver successful
@@ -147,10 +149,12 @@ Order management system
 **End Event:** Red Circle
 
 
-**Admin pool**
- <p float="left">
+&nbsp;&nbsp;&nbsp;**Admin pool**
+
+
+<p float="left">
   <img src="image/admin pool.png" alt="image" width="50%"/>
- </p> 
+</p> 
 
  -**Taking order:** Taking order from system.
   **check stock:** The system will check the product to see if it is in stock or not.
@@ -177,16 +181,23 @@ Order management system
  -**End Event:** Red Circle
 
 
- **Banking pool**
+&nbsp;&nbsp;&nbsp;**Banking pool**
 <p float="left">
   <img src="image/Bank pool.png" alt="image" width="50%"/>
 </p> 
 
 
-**Deliver pool**
+&nbsp;&nbsp;&nbsp;**Deliver pool**
 <p float="left">
   <img src="image/deliver pool.png" alt="image" width="50%"/>
 </p> 
 
 
 
+# Conclusion
+
+In conclusion, WordPress E-commerce presents a dynamic and versatile platform for businesses looking to establish and expand their online presence. It offers a range of customizable themes, plugins, and features that allow for tailored online store development. The integration of WooCommerce, along with other essential plugins, facilitates seamless transactions, inventory management, and a variety of payment options.
+
+The combination of WordPress's user-friendly content management system and E-commerce functionality empowers website owners to efficiently manage products, create engaging content, and optimize their websites for search engines. This flexibility and scalability make WordPress E-commerce suitable for businesses of all sizes, from startups to large enterprises.
+
+Furthermore, the constant support and active community of WordPress users and developers ensure that the platform remains up-to-date, secure, and equipped to adapt to evolving industry trends. Overall, WordPress E-commerce provides a solid foundation for building successful online stores and reaching a global audience.
